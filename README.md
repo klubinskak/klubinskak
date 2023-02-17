@@ -1,4 +1,4 @@
-## Hi there, I'm Klaudia 👋
+# Hi there, I'm Klaudia 👋
 
 
 # 💻 Tech Stack:
