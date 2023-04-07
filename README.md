@@ -1,4 +1,4 @@
-# Hi there, I'm Klaudia 👋
+# <h2  align="center">Hi there, I'm Klaudia 👋</h2>
 
 
 # 💻 Tech Stack:
