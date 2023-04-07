@@ -1,4 +1,4 @@
-# <h2  align="center">Hi there, I'm Klaudia 👋</h2>
+# <h1  align="center">Hi there, I'm Klaudia 👋</h1>
 I am 24 y.o full stack developer. I got interested in web development and I try to expand my knowledge in this field. I am open mind person with a willingness to learn and develop. Based in Poland 🇵🇱
 
 # 💻 Tech Stack:
