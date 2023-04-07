@@ -12,4 +12,4 @@ I am 24 y.o full stack developer. I got interested in web development and I try 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/klubinskadev"> <img align="left" src="https://www.buymeacoffee.com/klubinskadev" height="50" width="210" alt="https://www.buymeacoffee.com/klubinskadev" /></a></p><br><br>
+<p><a href="[https://www.buymeacoffee.com/https://www.buymeacoffee.com/klubinskadev](https://www.buymeacoffee.com/klubinskadev)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/klubinskadev" /></a></p><br><br>
