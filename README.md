@@ -1,4 +1,4 @@
-![Uploading Frame 1.png…]()
+![Frame 1](https://github.com/klubinskak/klubinskak/assets/76222513/eff9b3f0-d145-4af4-94ef-6366578331bd)
 
 # <h1  align="center">Hi there, I'm Klaudia 👋</h1>
 I am 24 y.o full stack developer. I got interested in web development and I try to expand my knowledge in this field. I am open mind person with a willingness to learn and develop. Based in Poland 🇵🇱
