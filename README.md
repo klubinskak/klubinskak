@@ -1,4 +1,4 @@
-![Frame 1](https://github.com/klubinskak/klubinskak/assets/76222513/28b9ee4b-17c9-4a32-aaf3-e4fd3a370900)
+![Frame 1](https://github.com/klubinskak/klubinskak/assets/76222513/0e875ae2-b253-4380-9e66-b01c15c8fe05)![Frame 1]
 
 # <h1  align="center">Hi there, I'm Klaudia 👋</h1>
 I am 24 y.o full stack developer. I got interested in web development and I try to expand my knowledge in this field. I am open mind person with a willingness to learn and develop. Based in Poland 🇵🇱
