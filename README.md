@@ -1,5 +1,4 @@
-[![Frame 1](https://github.com/klubinskak/klubinskak/assets/76222513/f84a3b40-20bc-407a-983b-a6837e564865)
-](url)
+
 I am 25 y.o full stack developer. My interests span across web development and mobile. Constantly try to expand my knowledge in this fields. I am open mind person with a willingness to learn and develop. Based in Poland 🇵🇱
 
 # 💻 Tech Stack:
