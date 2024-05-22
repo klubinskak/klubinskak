@@ -6,4 +6,3 @@ I am 25 y.o full stack developer. My interests span across web development and m
 
 
 
-<p><a href="https://buymeacoffee.com/klubinskadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/klubinskadev" /></a></p><br><br>
